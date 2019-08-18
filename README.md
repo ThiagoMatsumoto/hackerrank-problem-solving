@@ -16,8 +16,8 @@ explorar as soluções com essas ferramentas. **Ainda estou adquirindo a intuiç
 maneiras mais modernas de solução em poucas linhas ou usando ferramentas que não vi quando estudava, não vão me ajudar. 
 Na realidade, só vão me criar mais ansiedade por não saber escrever respostas iguais a essas pessoas.** 
 
-Acredito que uma das coisas que mais ajuda a iniciantes é ==escrever psudocódigos==. Sempre tentava fazer os exercícios de cima a 
+Acredito que uma das coisas que mais ajuda a iniciantes é **escrever psudocódigos**. Sempre tentava fazer os exercícios de cima a 
 baixo (literalmente! primeiro tentando pensar em quais variáveis usar e depois nos laços e condicionais) ao invés de montar eles
-por partes (mesmo que aleatórias). Além disso, uma das coisas que me ajudou foi ==realizar os diversos testes==para ver se a 
+por partes (mesmo que aleatórias). Além disso, uma das coisas que me ajudou foi **realizar os diversos testes** para ver se a 
 lógica que quero aplicar fazia sentido, nesse caso, utilizei o Console do navegador, criando exemplos rápidos e testando toda a
 função para ver se eu conseguia pelo menos passar pelo primeiro teste. 
