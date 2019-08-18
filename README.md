@@ -21,5 +21,3 @@ baixo (literalmente! primeiro tentando pensar em quais variáveis usar e depois 
 por partes (mesmo que aleatórias). Além disso, uma das coisas que me ajudou foi **realizar os diversos testes** para ver se a 
 lógica que quero aplicar fazia sentido, nesse caso, utilizei o Console do navegador, criando exemplos rápidos e testando toda a
 função para ver se eu conseguia pelo menos passar pelo primeiro teste. 
-
-teste final
