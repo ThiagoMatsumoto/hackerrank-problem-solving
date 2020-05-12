@@ -16,7 +16,6 @@ Na realidade, só vão me criar mais ansiedade por não saber escrever respostas
 Acredito que uma das coisas que mais ajuda os iniciantes é **escrever psudocódigos**. Sempre tentava fazer os exercícios de cima a 
 baixo (literalmente!), primeiro tentando pensar em quais variáveis usar e depois nos laços e condicionais, ao invés de montar eles
 por partes (mesmo que aleatórias). Além disso, uma das coisas que me ajudou foi **realizar diversos testes** para ver se a 
-lógica que quero aplicar fazia sentido, nesse caso, utilizei o Console do navegador, criando exemplos rápidos e testando toda a
-função para ver se eu conseguia pelo menos passar pelo primeiro teste. 
+lógica que quero aplicar fazia sentido, nesse caso, utilizei o Console do Navegador Mozilla Firefox, criando exemplos rápidos e testando toda a função para ver se eu conseguia pelo menos passar pelo primeiro teste. 
 
 "Como podemos escrever um código bonito sem nem ao menos saber como escrever um código feio?" - Anônimo
