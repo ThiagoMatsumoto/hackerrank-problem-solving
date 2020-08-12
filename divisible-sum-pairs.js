@@ -1,3 +1,4 @@
+/**
 Exemplo
     6 3 
     [1, 3, 2, 6, 1, 2]
@@ -25,7 +26,7 @@ Problema: A ordem de formação dos pares não importa. No index 0, obtemos os p
           análise combinatória (não sou muito bom nesta área), e no forum do problema não achei uma resposta
           melhor. Para este momento, podemos simplesmente dividir o count por 2, visto que o loop é no mesmo 
           array, podemos assumir que ele esta "indo e voltando" na formação dos pares.
-
+**/
 function divisibleSumPairs(n, k, ar){
     var count = 0;
     for(var i = 0; i < n; i++){
