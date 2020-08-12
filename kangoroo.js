@@ -20,9 +20,9 @@ function kangaroo(x1, v1, x2, v2) {
     };
     return resultado;
 }
-
-//teste 2, após pesquisar vi que a situação é uma simples equação: sendo y = número de pulos -> 
-//x1 + (v1 * y) = x2 + (v2 * y). Temos que quando houver igualdade, os cangurus se encontrarão. 
+/*
+teste 2, após pesquisar vi que a situação é uma simples equação: sendo y = número de pulos -> 
+x1 + (v1 * y) = x2 + (v2 * y). Temos que quando houver igualdade, os cangurus se encontrarão. 
 Simplificando a equação: 
 x1 - x2 = y(v2 - v1)
 y = x1 - x2 / v2 - v1
@@ -47,8 +47,8 @@ kangaroo(4, 3, 0, 2)
 "YES"
 y = 4 - 0 / 2 - 3 = -4 --> esperado "NO", o canguru 1 está a frente e o 2 nunca alcança porque pula menos
 
-//ao rodar adicionando a condição o v1>v2, passou em todos os 29 testes. 
-
+ao rodar adicionando a condição o v1>v2, passou em todos os 29 testes. 
+*/
 function kangaroo(x1, v1, x2, v2) {
     var resultado = "";
     var encontro = (x1 - x2) % (v2 - v1);
