@@ -3,7 +3,7 @@ Soluções de alguns dos exercícios vistos no Hackerrank em JavaScript.
 
 ## Motivação para isso:
 Alguns desses exercicios passavam em todos os testes, mas outros acabavam impacando em alguns. Então tive de procurar algumas
-resoluções na internet para ver aonde minha lógica estava errando.
+resoluções na internet para ver onde minha lógica estava errando.
 
 No momento que procurava essas outras soluções, me deparava com **respostas muito complexas utilizando ferramentas que nunca 
 tinha visto, ou sintaxes desconhecidas**. Elas até eram boas para para conhecer outras maneiras de resolver o problema, mas eram ruins por não terem exemplos utilizando ferramentas ou sintaxes mais simples. 
